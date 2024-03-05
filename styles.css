@@ -18,6 +18,20 @@ span{
     flex-wrap: wrap;
 }
 
+.digital-clock{
+    position: absolute;
+    top:20%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #c1e9e9;
+    width: 90px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: 15px;
+}
+
 .clock{
     width: 300px;
     height: 300px;
@@ -31,7 +45,7 @@ span{
     position: absolute;
     background-color: black;
     width: 6px;
-    height: 25%;
+    height: 20%;
     left: 50%;
     bottom: 50%;
     transform-origin: bottom;
