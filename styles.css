@@ -5,6 +5,9 @@
 h1{
     padding-right: 40px;
 }
+span{
+    padding: 10px;
+}
 .container{
     display: flex;
     align-items: center;
