@@ -21,6 +21,7 @@ h1{
     border : 5px solid red;
     border-radius: 50%;
     position: relative;
+    background-color: azure;
 }
 
 .hrs{
